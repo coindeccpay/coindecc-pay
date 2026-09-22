@@ -6,7 +6,7 @@ Traditional payment gateways impose high interchange fees and complex cross-bord
 Smart Contract Deployment: Deployed on Arc Testnet at `0xbD13692792b8356c142c93Ef5B114166e4Cd2Acd`.
 **Frontend:** Built with a high-performance React/TypeScript stack via Lovable, integrated with modern multi-wallet frameworks (RainbowKit, Wagmi, viem).
 **Payment Rails:** Native USDC routing, optimized gas mechanics, and automated merchant payout allocation.
-# 📂 Repository Structure
+## 📂 Repository Structure
 * `/contracts` - Solidity smart contracts, interfaces, and deployment scripts.
 * `/frontend` - User interface, checkout widget components, and merchant dashboard logic.
 * `/docs` - Architecture diagrams, API specs, and integration guides.
